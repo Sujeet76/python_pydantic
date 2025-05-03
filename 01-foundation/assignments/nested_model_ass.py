@@ -18,4 +18,3 @@ class Course(BaseModel):
     name: str
     desc: str
     modules: list[Module]
-
